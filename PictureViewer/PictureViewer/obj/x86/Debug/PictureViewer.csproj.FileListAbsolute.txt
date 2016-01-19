@@ -1,0 +1,8 @@
+c:\users\nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+c:\users\nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+c:\users\nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.Properties.Resources.resources
+c:\users\nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.csproj.GenerateResource.Cache
+c:\users\nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.exe
+c:\users\nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.pdb
+C:\Users\Nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\Nekane\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.PictureViewer.resources

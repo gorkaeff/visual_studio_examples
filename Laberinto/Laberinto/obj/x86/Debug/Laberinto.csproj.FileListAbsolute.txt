@@ -1,0 +1,7 @@
+c:\users\nekane\documents\visual studio 2010\Projects\Laberinto\Laberinto\bin\Debug\Laberinto.exe
+c:\users\nekane\documents\visual studio 2010\Projects\Laberinto\Laberinto\bin\Debug\Laberinto.pdb
+c:\users\nekane\documents\visual studio 2010\Projects\Laberinto\Laberinto\obj\x86\Debug\Laberinto.Form1.resources
+c:\users\nekane\documents\visual studio 2010\Projects\Laberinto\Laberinto\obj\x86\Debug\Laberinto.Properties.Resources.resources
+c:\users\nekane\documents\visual studio 2010\Projects\Laberinto\Laberinto\obj\x86\Debug\Laberinto.csproj.GenerateResource.Cache
+c:\users\nekane\documents\visual studio 2010\Projects\Laberinto\Laberinto\obj\x86\Debug\Laberinto.exe
+c:\users\nekane\documents\visual studio 2010\Projects\Laberinto\Laberinto\obj\x86\Debug\Laberinto.pdb

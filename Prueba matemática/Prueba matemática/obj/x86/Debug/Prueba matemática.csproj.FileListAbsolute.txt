@@ -1,0 +1,7 @@
+c:\users\nekane\documents\visual studio 2010\Projects\Prueba matemática\Prueba matemática\bin\Debug\Prueba matemática.exe
+c:\users\nekane\documents\visual studio 2010\Projects\Prueba matemática\Prueba matemática\bin\Debug\Prueba matemática.pdb
+c:\users\nekane\documents\visual studio 2010\Projects\Prueba matemática\Prueba matemática\obj\x86\Debug\Prueba_matemática.Form1.resources
+c:\users\nekane\documents\visual studio 2010\Projects\Prueba matemática\Prueba matemática\obj\x86\Debug\Prueba_matemática.Properties.Resources.resources
+c:\users\nekane\documents\visual studio 2010\Projects\Prueba matemática\Prueba matemática\obj\x86\Debug\Prueba matemática.csproj.GenerateResource.Cache
+c:\users\nekane\documents\visual studio 2010\Projects\Prueba matemática\Prueba matemática\obj\x86\Debug\Prueba matemática.exe
+c:\users\nekane\documents\visual studio 2010\Projects\Prueba matemática\Prueba matemática\obj\x86\Debug\Prueba matemática.pdb
