@@ -10,23 +10,21 @@
 <body>
     <div class="page">
         <header>
+            <!--
             <div id="title">
                 <h1>Mi aplicación de MVC</h1>
             </div>
             <div id="logindisplay">
                 @Html.Partial("_LogOnPartial")
             </div>
-            <nav>
-                <ul id="menu">
-                    <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
-                    <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
-                </ul>
-            </nav>
+             -->
+            @Html.Partial("_NavMenu")
         </header>
         <section id="main">
             @RenderBody()
         </section>
         <footer>
+            <p>Copyright W3schools 2012. All Rights Reserved.</p>
         </footer>
     </div>
 </body>
